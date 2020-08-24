@@ -9,4 +9,3 @@ opencv-python>=3.3.0
 pillow
 progressbar2
 tensorflow
-pandas
